@@ -6,7 +6,8 @@ def get_base64_image(image_path):
     with open(image_path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-img = get_base64_image("ww_icon.png")
+import os
+img = get_base64_image(os.path.join(os.path.dirname(__file__), "ww_icon.png"))
 st.markdown(f"""
     <style>
     .stApp {{
