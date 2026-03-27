@@ -28,5 +28,5 @@ The game tracks attempts, provides high/low hints, and handles invalid input gra
 
 ## Author
 
-**James Mitchell** — Systems Administrator transitioning into Software Engineering  
+**James Mitchell** — Systems Administrator expanding into Software Engineering  
 [GitHub](https://github.com/JMitchTech) | Wizardwerks Enterprise Labs
