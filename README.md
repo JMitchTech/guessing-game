@@ -5,7 +5,7 @@ Developed as part of my Python learning journey at Wizardwerks Enterprise Labs.
 
 ## 🎮 Play the Game
 
-👉 [Click here to play](https://wizardwerks-python-production.up.railway.app)
+👉 [Click here to play](https://guessinggame.up.railway.app)
 
 ## About
 
